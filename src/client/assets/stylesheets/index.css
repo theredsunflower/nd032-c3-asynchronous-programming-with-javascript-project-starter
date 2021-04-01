@@ -21,7 +21,7 @@ body {
 }
 
 header {
-  background-image: url('https://via.placeholder.com/1150');
+  background-image: url('http://localhost:3000/assets/images/banner-image-dark.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
